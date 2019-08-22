@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <img src:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png>
+title: <img src:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png" width="200">
 date:   2019-04-18 08:43:59
 author: Ben Centra
 categories: Jekyll
