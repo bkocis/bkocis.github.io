@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Placeholder title!"
+title: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png">
 date:   2019-08-18 08:43:59
 author: BK
 categories: Jekyll
