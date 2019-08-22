@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  <img src="//bencentra.com/assets/images/falcon9_small.jpg"> "Welcome to Jekyll!"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Jekyll
