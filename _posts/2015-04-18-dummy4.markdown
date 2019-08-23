@@ -4,6 +4,7 @@ title:  "Dummy Post 4"
 date:   2015-09-08 08:43:59
 author: BK
 categories: Dummy
+publish: false
 tags: ipsum
 ---
 
