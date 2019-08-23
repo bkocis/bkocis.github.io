@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome"
-thumbnail: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png">
+thumbnail: "/assets/instacode.png"
 date:   2019-08-18 08:43:59
 author: BK
 categories: Jekyll
