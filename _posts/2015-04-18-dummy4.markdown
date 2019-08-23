@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dummy Post 4" <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png">"
+title:  "Dummy Post 4" <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png">
 date:   2015-09-08 08:43:59
 author: BK
 categories: Dummy
