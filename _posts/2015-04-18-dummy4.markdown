@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'the unbelieveable story of Support Vector Machines"
+title: "the unbelieveable story of Support Vector Machines"
 subtitle: "Hello"
 date:   2015-09-08 08:43:59
 author: BK
