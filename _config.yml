@@ -9,17 +9,17 @@ exclude:
 
 # Site settings
 title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Some roads are harder than others."
 email: balaz.kocis@gmail.com
 name: Balazs Kocsis
-description: "welcome"
+description: ""
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://bkocis.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/51iuWCX.png"
+#logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -60,7 +60,7 @@ descriptions:
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Stackoverflow
-    icon: stackoverflow
+    icon: stack-overflow
     username: b-kocis
     url: https://stackoverflow.com/users/2269826/b-kocis
     desc: 
