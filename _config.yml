@@ -8,7 +8,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: the linebroadening
 subtitle: "Some roads are harder than others."
 email: balaz.kocis@gmail.com
 name: Balazs Kocsis
@@ -18,7 +18,7 @@ description: ""
 # root of your server.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://bkocis.github.io" # the base hostname & protocol for your site
-cover: "/assets/51iuWCX.png"
+cover: "/assets/51juWCX.jpg"
 #logo: "/assets/logo.png"
 
 # Build settings
@@ -30,7 +30,7 @@ highlightjs_theme: "monokai-sublime"
 
 
 # Disqus comments
-# disqus_shortname: bencentra
+# disqus_shortname:
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -126,8 +126,5 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
 
 theme: jekyll-theme-cayman
