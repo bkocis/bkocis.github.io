@@ -26,9 +26,6 @@ layout: default
 
           </h1>
 
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
           <p class="post-meta">
             {{ post.date | date: "%b %-d, %Y" }}
             {% if post.categories != empty or post.tags != empty %}
@@ -41,6 +38,7 @@ layout: default
         </header>
 
         <div class="post-content">
+		  {{ post.content | strip_html | truncatewords: 50 }}
           {{ post.excerpt }}
         </div>
         {% if post.content contains site.excerpt_separator %}
