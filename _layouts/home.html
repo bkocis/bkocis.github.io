@@ -16,13 +16,14 @@ layout: default
       <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
         <header class="post-header">
           <h1 class="post-title">
+
+      		<a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
             {% if post.external-url %}
               <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
             {% else %}
               <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             {% endif %}
 
-      		<a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
 
           </h1>
 
