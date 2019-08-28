@@ -38,8 +38,7 @@ layout: default
         </header>
 
         <div class="post-content">
-		  {{ post.content | strip_html | truncatewords: 50 }}
-          {{ post.excerpt }}
+		  {{ post.excerpt | strip_html | truncatewords: 50 }}
         </div>
         {% if post.content contains site.excerpt_separator %}
           <p class="post-continue">
