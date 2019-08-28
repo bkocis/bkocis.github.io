@@ -39,7 +39,7 @@ layout: default
         </header>
 
         <div class="post-content">
-      	  <img src="{{ post.thumbnail }}" width="50"/> {{ post.excerpt | strip_html | truncatewords: 50 }}
+      	  <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" height="80"/> {{ post.excerpt | strip_html | truncatewords: 50 }}
      
         </div>
         {% if post.content contains site.excerpt_separator %}
