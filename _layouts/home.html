@@ -39,8 +39,9 @@ layout: default
         </header>
 
         <div class="post-content">
-      	  <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" height="80"/> {{ post.excerpt | strip_html | truncatewords: 50 }}
-     
+		  <table border>
+      	  <tr> <td><a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" height="80"/></td> <td>{{ post.excerpt | strip_html | truncatewords: 50 }}</td>
+          </table>
         </div>
         {% if post.content contains site.excerpt_separator %}
           <p class="post-continue">
