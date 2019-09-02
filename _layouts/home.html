@@ -8,8 +8,13 @@ layout: default
 
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
   <p>
-	Hello world
+	In the post provided here, the story behind the repositories are summarized. 
+
   </p>
+  <br>
+  List of posts:
+  <hr>
+
   <ul class="post-list">
     {% for post in paginator.posts %}
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
@@ -17,7 +22,7 @@ layout: default
 
       <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
         <header class="post-header">
-          <h1 class="post-title">
+          <h3 class="post-title">
 
             {% if post.external-url %}
       		  <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
@@ -27,7 +32,7 @@ layout: default
             {% endif %}
 
 
-          </h1>
+          </h3>
 
           <p class="post-meta">
             {{ post.date | date: "%b %-d, %Y" }}
