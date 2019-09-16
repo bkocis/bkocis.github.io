@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail: "/assets/1200px-Kernel_Machine.svg.png"
+thumbnail: "/assets/udacity.png"
 ---
 
 In this post a summary of my Udacity Nano-degrees (ND) github repositories is listed. They contain the submitted and accepted project code.

@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail: "/assets/1200px-Kernel_Machine.svg.png"
+thumbnail: "/assets/opencv_01.png"
 ---
 
 Image processing examples that I worked with in exploratory manner: 
