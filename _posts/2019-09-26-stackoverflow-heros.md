@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail: "./assets/stackoverflow-orange.jpeg"
+thumbnail: "/assets/stackoverflow-orange.jpeg"
 ---
 
 
