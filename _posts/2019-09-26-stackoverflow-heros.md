@@ -1,10 +1,10 @@
 ---
 layout: post
-thumbnail: "/assets/stackoverflow-orange.jpeg"
+thumbnail: "./assets/stackoverflow-orange.jpeg"
 ---
 
 
-A small summary of [Stackexchange](https://stackexchange.com/) users that just make me go bananas. These user have accumulated several hundred thousand internet-points. 
+A small summary of [Stackexchange](https://stackexchange.com/sites#) users that just make me go bananas. These user have accumulated several hundred thousand internet-points. 
 It appears to me also that the quality and apparent intelligence of these users seam to be higher then the average developer/programmer, or even a nerd in general.
 
 
