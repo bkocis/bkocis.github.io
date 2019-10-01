@@ -67,6 +67,6 @@ phase 4
 Concluding remarks
 ------------------
 
-Remember, by completing and graduating from a nanodegree course you will not become an expert in the field of your ND, not even by far. Consider this: are you able to write all the code for example that is in a final project from scratch? If the answer is not "No problem, I can do it in an afternoon...", then there is still a not to work on that rookie status.
+Remember, by completing and graduating from a nanodegree course you will not become an expert in the field of your ND, not even by far. Consider this: are you able to write all the code for example that is in a final project from scratch? If the answer is not "No problem, I can do it in an afternoon...", then there is still a lot to work on that rookie status.
 
 These nanodegrees gave me a lot of structure to understand the details and concepts for the application of deep learning. What is clear to me is that there is a lot that I need to learn to be able to practice DL methods as second nature in everyday work. 
