@@ -5,7 +5,7 @@ thumbnail: "/assets/udacity.png"
 
 In this post a summary of my Udacity Nano-degrees (ND) github repositories is listed. They contain the submitted and accepted project code.
 
-I started my first ND in march of 2019, with the Deep Learning ND (DLND). It took me 4 months to complete 5 coding projects. Immediately after graduation from the DLND I started the next one, the Computer Vision ND (CVND).
+I started my first ND in march of 2019, with the Deep Learning NanoDegree (DLND). It took me 4 months to complete 5 coding projects. Immediately after graduation from the DLND I started the next one, the Computer Vision NanoDegree(CVND).
 
 Here are my uploaded projects:
 
