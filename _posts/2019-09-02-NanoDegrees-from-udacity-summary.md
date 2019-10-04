@@ -29,7 +29,7 @@ Computer Vision ND:
 
 - [Facial keypoint detection](https://github.com/bkocis/CVND_Pr_1_Facial_Keypoint_Detection)
 
-- [Image captioniing](https://github.com/bkocis/CVND_Pr_2_Image_captioning)
+- [Image captioning](https://github.com/bkocis/CVND_Pr_2_Image_captioning)
 
 - [Landmark detection and tracking SLAM](https://github.com/bkocis/CVND_Pr_3_Landmark_detection_and_tracking_SLAM)
 
