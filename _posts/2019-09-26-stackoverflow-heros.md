@@ -19,7 +19,7 @@ Aaron sums it up very nicely:
 "Remember, it's all just internet points, which probably won't be worth anything ever. Maybe something when the singularity hits and AI takes over, but I don't see that happening any time soon, so you have plenty of time until then. (I would think that StackOverflow's internet points would be the most valuable, at that point.) "
 
 
-3. [jazreal](https://stackoverflow.com/users/2901002/jezrael)
+3. [jezreal](https://stackoverflow.com/users/2901002/jezrael)
 
 The python pandas guru - If you find a questions on stackoverflow with the tag pandas, most probably you will find his answer as accepted.
 
