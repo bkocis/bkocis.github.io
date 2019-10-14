@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail: "/assets/linux_terminal.png"
+thumbnail: "/assets/linuxterminal.png"
 ---
 
 Summary of Command-line interface related repos
