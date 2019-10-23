@@ -11,5 +11,6 @@ permalink: /about/
 
 [github profile](https://github.com/bkocis)
 
+[gist](https://gist.github.com/bkocis)
 
 
