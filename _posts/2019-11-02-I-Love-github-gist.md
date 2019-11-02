@@ -1,0 +1,16 @@
+---
+layout: post
+thumbnail: "/assets/github_gist.png"
+---
+
+I just love the Github:Gist. For me, it is like Twitter, but for code.
+
+Github:Gist is an additional feature on github that allows sharing of code snippets, notes, to do lists and whatever. 
+
+It is more for all the stuff, for which you would not care making a repo, writing a README. I like to drop a method, a functions, or parts of a tutorial that I am doing at the moment into a gist, and so I have it accessible, but without a lot of hustle to integrate code into a blog post or repo. 
+
+I like [this](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) for the usage of a gist publication. 
+
+
+*Footnote: Some definition of the word "gist" : the substance or general meaning of a speech or text.*
+
