@@ -34,6 +34,14 @@ Computer Vision ND:
 - [Landmark detection and tracking SLAM](https://github.com/bkocis/CVND_Pr_3_Landmark_detection_and_tracking_SLAM)
 
 
+Deep Reinforcement Learning ND:
+-------------------------------
+
+- [Navigation (Value based methods)](https://github.com/bkocis/DRLND_Pr_1_Navigation)
+
+- [Continuous Control (Policy based methods)]
+
+- [Collaboration and competition (Multi-Agent Reinforcement Learning)] 
 
 Final toughts - my very personal Udacity experience
 ---------------------------------------------------
